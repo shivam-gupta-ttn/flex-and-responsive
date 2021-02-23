@@ -1,0 +1,16 @@
+.banner2{
+    display: block;
+    text-align: center;
+
+}
+.flexbox{
+    display:block;
+   
+}
+.card1{
+    padding-top: 2rem;
+    width:100%;
+}
+.box1{
+    padding-bottom: 2rem;
+}
